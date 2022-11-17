@@ -5,3 +5,4 @@ data <- c(3,4,5,7)
 library(tidyverse)
 library(ggplot2)
 
+fig_01 <- plot(data)
