@@ -1,4 +1,15 @@
-.Rproj.user
+# History files
 .Rhistory
+.Rapp.history
+
+# Session data files
 .RData
+
+# RStudio files
 .Ruserdata
+.Rproj.user
+
+# Figurees and output
+*.pgn
+*.pdf
+*.jpeg
